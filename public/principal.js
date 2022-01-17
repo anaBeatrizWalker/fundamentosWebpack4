@@ -71,17 +71,6 @@
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/assets/css/estilo.css":
-/*!***********************************!*\
-  !*** ./src/assets/css/estilo.css ***!
-  \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("throw new Error(\"Module build failed: ModuleBuildError: Module build failed: TypeError: this.getOptions is not a function\\n    at Object.loader (C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\sass-loader\\\\dist\\\\index.js:25:24)\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js:252:20\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:367:11\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:233:18\");\n\n//# sourceURL=webpack:///./src/assets/css/estilo.css?");
-
-/***/ }),
-
 /***/ "./src/assets/index.js":
 /*!*****************************!*\
   !*** ./src/assets/index.js ***!
@@ -90,18 +79,7 @@ eval("throw new Error(\"Module build failed: ModuleBuildError: Module build fail
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _css_estilo_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./css/estilo.css */ \"./src/assets/css/estilo.css\");\n/* harmony import */ var _css_estilo_css__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_estilo_css__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./scss/index.scss */ \"./src/assets/scss/index.scss\");\n/* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_1__);\n\r\n\n\n//# sourceURL=webpack:///./src/assets/index.js?");
-
-/***/ }),
-
-/***/ "./src/assets/scss/index.scss":
-/*!************************************!*\
-  !*** ./src/assets/scss/index.scss ***!
-  \************************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
-
-eval("throw new Error(\"Module build failed: ModuleBuildError: Module build failed: TypeError: this.getOptions is not a function\\n    at Object.loader (C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\sass-loader\\\\dist\\\\index.js:25:24)\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js:252:20\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:367:11\\n    at C:\\\\Users\\\\Ana Beatriz\\\\Documents\\\\JAVASCRIPT - UDEMY\\\\REACT E REDUX - UDEMY\\\\Projetos\\\\webpack_4\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js:233:18\");\n\n//# sourceURL=webpack:///./src/assets/scss/index.scss?");
+eval("__webpack_require__.r(__webpack_exports__);\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module \\\"./css/estilo.css\\\"\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n!(function webpackMissingModule() { var e = new Error(\"Cannot find module \\\"./scss/index.scss\\\"\"); e.code = 'MODULE_NOT_FOUND'; throw e; }());\n\r\n\n\n//# sourceURL=webpack:///./src/assets/index.js?");
 
 /***/ }),
 

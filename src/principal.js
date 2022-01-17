@@ -1,5 +1,5 @@
 import Pessoa from "./pessoa";
-import './modulos/moduloA'
+//import './modulos/moduloA'
 import './assets' //procura por index.js
 
 const atendente = new Pessoa()
